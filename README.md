@@ -1,3 +1,3 @@
 # Certificates
 
-Online Certificates from LinkedIn Learning
+Certificates from institues and learning platforms
